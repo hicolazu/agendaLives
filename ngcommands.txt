@@ -1,0 +1,5 @@
+ng create [project-name] -> creates a new angular project
+ng add [dependency-name] -> add new dependency to project
+ng g -> generate
+ng g c -> generate component
+ng serve --port 333 -o -> sobe o app
